@@ -1,0 +1,22 @@
+.content{
+border-radius: 15px;
+border: solid 2px rgb(9, 8, 8);
+background-color: whitesmoke;
+color: rgb(86, 84, 84);
+}
+
+.blogTitle{
+    display: flex;
+    border-radius: 6px;
+    padding: 10px;
+   
+    border-bottom: solid 2px black;
+    margin-left: 0px;
+    min-width: 100%;
+    justify-content: center;
+}
+
+.blogBody{
+    border-radius: 15px;
+    padding: 10px;
+}

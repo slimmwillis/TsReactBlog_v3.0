@@ -1,0 +1,8 @@
+node_modules
+
+#ignore subfolders
+
+client/node_modules
+server/node_modules
+server/.env
+client/.env
